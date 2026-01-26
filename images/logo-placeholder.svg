@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7C3AED"/>
+      <stop offset="100%" style="stop-color:#4F46E5"/>
+    </linearGradient>
+  </defs>
+  <!-- Circle background -->
+  <circle cx="24" cy="24" r="22" fill="url(#logoGradient)"/>
+  <!-- Stylized 'G' for Gymtegrity -->
+  <path d="M24 10c-7.732 0-14 6.268-14 14s6.268 14 14 14c5.523 0 10.288-3.205 12.573-7.857l-6.573 0c-1.657 2.367-4.428 3.857-7.5 3.857C17.268 34 13 29.732 13 24s4.268-10 9.5-10c3.072 0 5.843 1.49 7.5 3.857H36.573C34.288 13.205 29.523 10 24 10z" fill="white"/>
+  <!-- Star accent -->
+  <polygon points="34,20 35.5,23 39,23.5 36.5,26 37,29.5 34,28 31,29.5 31.5,26 29,23.5 32.5,23" fill="#10B981"/>
+</svg>
